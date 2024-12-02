@@ -1,0 +1,12 @@
+{
+  "name": "hypercube-backend",
+  "version": "1.0.0",
+  "description": "Backend for hypercube real-time messaging app.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
